@@ -12,13 +12,13 @@
         }
       }]
     },
-    "json-flat": {
+    "json": {
       "transformGroup": "js",
       "buildPath": "build/json/",
       "files": [
         {
-          "destination": "styles.json",
-          "format": "json/flat"
+          "destination": "tokens.json",
+          "format": "json"
         }
       ]
     },
