@@ -8,4 +8,4 @@ workflow:
 4. gh action will run style dictionary 
 5. the new /build directory will have updated tokens 
 
-note: we might want to contribute to this before using this in prime time: https://github.com/lukasoppermann/design-tokens/issues/80
+we might want to contribute to this before using this in prime time: https://github.com/lukasoppermann/design-tokens/issues/80
