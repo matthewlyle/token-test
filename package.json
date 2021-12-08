@@ -6,24 +6,17 @@
   "dependencies": {
     "style-dictionary": "^3"
   },
-  "devDependencies": {
-    "jest": "^27.0.6",
-    "ts-jest": "^27.0.3",
-    "@types/jest": "^26.0.23"
-  },
   "scripts": {
     "start": "npm run transform-tokens",
     "transform-tokens": "node ./transformTokens.js",
-    "test": "jest tests --coverage=false"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lukasoppermann/design-token-transformer.git"
   },
-  "author": "Lukas Oppermann",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukasoppermann/design-token-transformer/issues"
+    "url": "https://github.com/matthewlyle/design-token-transformer"
   },
-  "homepage": "https://github.com/lukasoppermann/design-token-transformer#readme"
+  "homepage": "https://github.com/matthewlyle/design-token-transformer#readme"
 }
