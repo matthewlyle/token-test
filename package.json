@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "npm run transform-tokens",
-    "transform-tokens": "node ./transformTokens.js",
+    "transform-tokens": "node ./transformTokens.js"
   },
   "repository": {
     "type": "git",
