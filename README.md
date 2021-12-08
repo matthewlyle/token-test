@@ -1,6 +1,3 @@
-testing pushing tokens from figma -> github using https://github.com/lukasoppermann/design-tokens
-
-
 workflow:
 1. update token in figma
 2. run plugin with "send to url" 
