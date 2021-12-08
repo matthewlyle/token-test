@@ -1,7 +1,6 @@
 const StyleDictionary = require('style-dictionary')
 const baseConfig = require('./config.json')
 
-
 StyleDictionary.registerTransform({
   name: 'size/px',
   type: 'value',
@@ -27,22 +26,6 @@ StyleDictionary.registerTransform({
 StyleDictionary.registerTransformGroup({
   name: 'custom/css',
   transforms: StyleDictionary.transformGroup['css'].concat([
-    'size/px',
-    'size/percent',
-  ]),
-})
-
-StyleDictionary.registerTransformGroup({
-  name: 'custom/less',
-  transforms: StyleDictionary.transformGroup['less'].concat([
-    'size/px',
-    'size/percent',
-  ]),
-})
-
-StyleDictionary.registerTransformGroup({
-  name: 'custom/scss',
-  transforms: StyleDictionary.transformGroup['less'].concat([
     'size/px',
     'size/percent',
   ]),
