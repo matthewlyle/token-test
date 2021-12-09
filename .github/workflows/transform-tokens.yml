@@ -42,6 +42,10 @@ jobs:
       # We now create a pull request 
       - name: Create PR 
         uses: peter-evans/create-pull-request@v3
+        with:
+          title: "Design token updates"
+          body: "Design tokens have been updated in Figma. Please review."
+          assignees: "matthewlyle"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # this parameter is optional and defaults to master but I am using main
