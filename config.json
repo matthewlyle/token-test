@@ -12,13 +12,13 @@
         }
       }]
     },
-    "json": {
+    "es6": {
       "transformGroup": "js",
-      "buildPath": "build/json/",
+      "buildPath": "build/es6/",
       "files": [
         {
           "destination": "tokens.json",
-          "format": "javascript/object"
+          "format": "javascript/es6"
         }
       ]
     }
