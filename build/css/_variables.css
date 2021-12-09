@@ -17,9 +17,7 @@
   --sizes-xs: 8;
   --sizes-xxs: 4;
   --sizes-xxxs: 2;
-  --breakpoints-small: 1200;
-  --breakpoints-medium: 900;
-  --breakpoints-large: 1200;
+  --breakpoints-small: 600;
   --radii-s: [object Object];
   --radii-m: [object Object];
   --radii-l: [object Object];
