@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 14 Dec 2021 18:11:30 GMT
+ * Generated on Wed, 15 Dec 2021 12:58:44 GMT
  */
 
 export const SizesTvXxxl = 160;
@@ -193,5 +193,6 @@ export const FontAndroidLabel2 = {"fontSize":11,"textDecoration":"none","fontFam
 export const FontAndroidLabel3 = {"fontSize":10,"textDecoration":"none","fontFamily":"Roboto","fontWeight":500,"fontStyle":"normal","fontStretch":"normal","letterSpacing":-0.3,"lineHeight":16,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"};
 export const FontTvHeading1 = {"fontSize":68,"textDecoration":"none","fontFamily":"CircularXX","fontWeight":700,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":72,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"};
 export const FontTvHeading2 = {"fontSize":40,"textDecoration":"none","fontFamily":"CircularXX","fontWeight":700,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":48,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"};
+export const FontTvHeading3 = {"fontSize":32,"textDecoration":"none","fontFamily":"CircularXX","fontWeight":700,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":48,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"};
 export const EffectShadowLow = {"shadowType":"dropShadow","radius":4,"color":"#00000033","offsetX":0,"offsetY":4,"spread":0};
 export const EffectShadowHigh = {"shadowType":"dropShadow","radius":16,"color":"#00000033","offsetX":0,"offsetY":4,"spread":0};
