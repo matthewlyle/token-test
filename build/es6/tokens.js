@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 15 Dec 2021 18:39:45 GMT
+ * Generated on Tue, 21 Dec 2021 16:11:54 GMT
  */
 
 export const SizesXxxl = 64;
@@ -48,50 +48,30 @@ export const ColorStaticGrey7 = "#f2f3f4";
 export const ColorStaticGrey8 = "#f9f9f9";
 export const ColorStaticRed = "#c72c05";
 export const ColorStaticGreen = "#4db288";
-export const ColorPrimaryBackground10 = "#ffffff";
 export const ColorPrimaryForeground100 = "#ffffff";
-export const ColorPrimaryForeground90 = "#ffffff";
 export const ColorPrimaryForeground80 = "#ffffff";
-export const ColorPrimaryForeground70 = "#ffffff";
 export const ColorPrimaryForeground60 = "#ffffff";
-export const ColorPrimaryForeground50 = "#ffffff";
-export const ColorPrimaryForeground40 = "#ffffff";
 export const ColorPrimaryForeground30 = "#ffffff";
-export const ColorPrimaryForeground20 = "#ffffff";
 export const ColorPrimaryForeground10 = "#ffffff";
 export const ColorPrimaryForeground05 = "#ffffff";
 export const ColorPrimaryBackground100 = "#ffffff";
-export const ColorPrimaryBackground90 = "#ffffff";
 export const ColorPrimaryBackground80 = "#ffffff";
-export const ColorPrimaryBackground70 = "#ffffff";
 export const ColorPrimaryBackground60 = "#ffffff";
-export const ColorPrimaryBackground50 = "#ffffff";
-export const ColorPrimaryBackground40 = "#ffffff";
 export const ColorPrimaryBackground30 = "#ffffff";
+export const ColorPrimaryBackground10 = "#ffffff";
 export const ColorPrimaryBackground05 = "#ffffff";
-export const ColorPrimaryBackground20 = "#ffffff";
-export const ColorSurfaceForeground05 = "#ffffff";
 export const ColorSurfaceBackground100 = "#000000";
-export const ColorSurfaceBackground90 = "#000000";
 export const ColorSurfaceBackground80 = "#000000";
-export const ColorSurfaceBackground70 = "#000000";
 export const ColorSurfaceBackground60 = "#000000";
-export const ColorSurfaceBackground50 = "#000000";
-export const ColorSurfaceBackground40 = "#000000";
 export const ColorSurfaceBackground30 = "#000000";
-export const ColorSurfaceBackground20 = "#000000";
 export const ColorSurfaceBackground10 = "#000000";
 export const ColorSurfaceBackground05 = "#000000";
 export const ColorSurfaceForeground100 = "#ffffff";
-export const ColorSurfaceForeground90 = "#ffffff";
 export const ColorSurfaceForeground80 = "#ffffff";
-export const ColorSurfaceSurfaceForeground70 = "#ffffff";
-export const ColorSurfaceSurfaceForeground60 = "#ffffff";
-export const ColorSurfaceSurfaceForeground50 = "#ffffff";
-export const ColorSurfaceSurfaceForeground40 = "#ffffff";
-export const ColorSurfaceSurfaceForeground30 = "#ffffff";
-export const ColorSurfaceSurfaceForeground20 = "#ffffff";
-export const ColorSurfaceSurfaceForeground10 = "#ffffff";
+export const ColorSurfaceForeground60 = "#ffffff";
+export const ColorSurfaceForeground30 = "#ffffff";
+export const ColorSurfaceForeground10 = "#ffffff";
+export const ColorSurfaceForeground05 = "#ffffff";
 export const FontWebHeading1 = {"fontSize":56,"textDecoration":"none","fontFamily":"CircularXX","fontWeight":700,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":60,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"};
 export const FontWebHeading2 = {"fontSize":40,"textDecoration":"none","fontFamily":"CircularXX","fontWeight":700,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":48,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"};
 export const FontWebHeading3 = {"fontSize":32,"textDecoration":"none","fontFamily":"CircularXX","fontWeight":700,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":40,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"};
